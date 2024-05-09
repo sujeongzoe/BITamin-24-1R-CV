@@ -1,1 +1,1 @@
-# BITamin-24-1R-CV
+# BITamin-24-1R-CV : 전동킥보드 초과 인원 감지 프로젝트
